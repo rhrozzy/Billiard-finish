@@ -1,4 +1,4 @@
-###  <p style="text-align: center;">🎱 8 BALL BILLIARDS 🎱</p>
+<div> ###  <p style="text-align: center;">🎱 8 BALL BILLIARDS 🎱</p>
 
  <img src="https://github.com/rhrozzy/Billiard-finish/assets/93496560/430e41ef-0a4a-4fe6-9920-fa7a72debf7a">
 
@@ -35,4 +35,4 @@
 ---
 <h2> <p style="color:rgba(174, 6, 6, 0.974);"> 🎮 Para jogar clique no botão abaixo: </p>
 
-[![Jogo](https://img.shields.io/website?label=Sinuca-by-rhuan&style=for-the-badge&url=https://rhrozzy.github.io/Billiard-finish/)](https://rhrozzy.github.io/Billiard-finish/)
+[![Jogo](https://img.shields.io/website?label=Sinuca-by-rhuan&style=for-the-badge&url=https://rhrozzy.github.io/Billiard-finish/)](https://rhrozzy.github.io/Billiard-finish/) </div>
